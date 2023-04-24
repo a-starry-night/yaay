@@ -1,0 +1,3 @@
+[submodule "dist"]
+    path = dist
+    url = git://github.com/a-starry-night/yaay.git
